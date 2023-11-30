@@ -1,7 +1,7 @@
 ---
 title: Jan Meizner
 email: j.meizner@cyfronet.pl
-image: "/images/avatar.png"
+image: "/images/team/jm.jpg"
 description: this is meta description
 social:
   - name: scholar

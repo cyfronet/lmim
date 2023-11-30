@@ -1,7 +1,7 @@
 ---
 title: Piotr Połeć
 email: p.polec@cyfronet.pl
-image: "/images/avatar.png"
+image: "/images/team/pp.jpg"
 description: this is meta description
 social:
   - name: github

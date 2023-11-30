@@ -1,7 +1,7 @@
 ---
 title: Tomasz Gubała
 email: t.gubala@cyfronet.pl
-image: "/images/avatar.png"
+image: "/images/team/tg.jpg"
 description: this is meta description
 social:
   - name: github

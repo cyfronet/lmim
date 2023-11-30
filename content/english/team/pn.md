@@ -1,7 +1,7 @@
 ---
 title: Piotr Nowakowski
 email: p.nowakowski@cyfronet.pl
-image: "/images/avatar.png"
+image: "/images/team/pn.jpg"
 description: this is meta description
 social:
   - name: github

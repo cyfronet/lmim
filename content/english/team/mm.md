@@ -1,7 +1,7 @@
 ---
 title: Maciej Malawski
 email: malawski@agh.edu.pl
-image: "/images/avatar.png"
+image: "/images/team/mm.jpg"
 description: this is meta description
 social:
   - name: homepage

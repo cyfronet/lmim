@@ -1,7 +1,7 @@
 ---
 title: Marek Kasztelnik
 email: m.kasztelnik@cyfronet.pl
-image: "/images/avatar.png"
+image: "/images/team/mk.jpg"
 description: this is meta description
 social:
   - name: homepage
@@ -19,7 +19,6 @@ social:
   - name: scholar
     icon: fa-solid fa-graduation-cap
     link: http://scholar.google.com/citations?user=BU_T4KMAAAAJ&hl=en
-active: true
 ---
 
 Researcher, scientific developer

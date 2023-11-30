@@ -5,7 +5,7 @@
   <section class="section">
     <div class="container">
       <div class="row">
-        {{ range .RegularPages }}
+        {{ range (where .RegularPages "Params.alumni" "!=" true) }}
           <div class="md:col-6 lg:col-4 mb-14">
             {{ partial "components/author-card" . }}
           </div>
@@ -13,4 +13,17 @@
       </div>
     </div>
   </section>
+
+  <div class="container">
+    <h2>Alumni</h2>
+    <section class="section">
+      <div class="row">
+        {{ range (where .RegularPages "Params.alumni" true) }}
+          <div class="md:col-6 lg:col-4 mb-14">
+            {{ partial "components/author-card" . }}
+          </div>
+        {{ end }}
+      </div>
+    </section>
+  </div>
 {{ end }}
