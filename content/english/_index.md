@@ -6,7 +6,7 @@ banner:
   button:
     enable: true
     label: "See our research"
-    link: "https://github.com/zeon-studio/hugoplate"
+    link: "projects"
   youtube:
     id: 0Z9OzI-vS0I
     title: Cyfronet for science - what we do
@@ -37,7 +37,7 @@ features:
     button:
       enable: true
       label: "See all projects"
-      link: "https://github.com/zeon-studio/hugoplate"
+      link: "projects"
 
   - title: "Featured publications"
     image: "/images/publications.png"
