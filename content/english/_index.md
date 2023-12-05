@@ -14,7 +14,7 @@ banner:
 # Features
 features:
   - title: "Our research interests include:"
-    image: "/images/service-1.png"
+    image: "/images/research.png"
     content: ""
     bulletpoints:
       - "Methods, techniques and environments for programming and execution of complex scientific applications on cluster, HPC and Cloud infrastructures"
@@ -28,7 +28,7 @@ features:
       link: "#"
 
   - title: "Current research projects"
-    image: "/images/service-2.png"
+    image: "/images/projects.png"
     bulletpoints:
       - "**Sano**: Centre for New Methods in Computational Diagnostics and Personalised Therapy"
       - "**Edith**: European Virtual Human Twin"
@@ -40,7 +40,7 @@ features:
       link: "https://github.com/zeon-studio/hugoplate"
 
   - title: "Featured publications"
-    image: "/images/service-3.png"
+    image: "/images/publications.png"
     content: "With Hugo, you can build modern and content-focused websites without sacrificing performance or ease of use."
     bulletpoints:
       - "Instantly load static sites for better user experience and SEO."

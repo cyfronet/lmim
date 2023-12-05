@@ -6,7 +6,7 @@ description: "this is meta description"
 start: 2009-12-01T00:00:00Z
 end: 2012-11-30T23:59:59Z
 grant_id: "248767"
-image: "/images/image-placeholder.png"
+image: "/images/projects/urbanflood.png"
 categories: ["VHT", "Health"]
 author: "Marian Bubak"
 tags: ["vht"]

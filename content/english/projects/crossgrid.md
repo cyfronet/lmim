@@ -6,7 +6,7 @@ description: "this is meta description"
 start: 2002-03-01T00:00:00Z
 end: 2005-04-30T23:59:59Z
 grant_id: "IST-2001-32243"
-image: "/images/image-placeholder.png"
+image: "/images/projects/crossgrid.png"
 categories: ["HPC", "escience"]
 author: "Marian Bubak"
 tags: ["vht"]

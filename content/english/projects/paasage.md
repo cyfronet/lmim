@@ -6,7 +6,7 @@ description: "this is meta description"
 start: 2009-12-01T00:00:00Z
 end: 2011-11-30T23:59:59Z
 grant_number: "218440"
-image: "/images/image-placeholder.png"
+image: "/images/projects/paasage.png"
 categories: ["Knowledge"]
 author: "Marian Bubak"
 tags: ["knowledge"]

@@ -6,7 +6,7 @@ description: "this is meta description"
 start: 2004-09-01T00:00:00Z
 end: 2008-08-31T23:59:59Z
 grant_number: "4265"
-image: "/images/image-placeholder.png"
+image: "/images/projects/coregrid.png"
 categories: ["HPC", "Grid"]
 author: "Marian Bubak"
 tags: ["HPC", "Grid"]

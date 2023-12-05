@@ -6,7 +6,7 @@ description: "this is meta description"
 start: 2006-10-01T00:00:00Z
 end: 2009-03-31T23:59:59Z
 grant_number: "034363"
-image: "/images/image-placeholder.png"
+image: "/images/projects/gredia.png"
 categories: ["VHT", "Health"]
 author: "Marian Bubak"
 tags: ["grid"]
