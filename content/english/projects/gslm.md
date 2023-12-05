@@ -6,7 +6,7 @@ description: "this is meta description"
 start: 2010-09-01T00:00:00Z
 end: 2012-08-31T23:59:59Z
 grant_number: "261547"
-image: "/images/image-placeholder.png"
+image: "/images/projects/gslm.png"
 categories: ["Grid"]
 author: "Tomasz Szepieniec"
 tags: ["grid"]

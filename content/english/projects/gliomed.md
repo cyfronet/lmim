@@ -6,7 +6,7 @@ description: "this is meta description"
 start: 2017-04-01T00:00:00Z
 end: 2020-12-31T23:59:59Z
 grant_number: "STRATEGMED3/307326/6/NCBR/2017"
-image: "/images/image-placeholder.png"
+image: "/images/projects/gliomed.png"
 categories: ["VHT", "Health"]
 author: "Marian Bubak"
 tags: ["vht"]

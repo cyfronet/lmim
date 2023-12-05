@@ -6,7 +6,7 @@ description: "this is meta description"
 start: 2012-09-01T00:00:00Z
 end: 2015-08-31T23:59:59Z
 grant_id: "312851"
-image: "/images/image-placeholder.png"
+image: "/images/projects/fedsm.png"
 categories: ["e-Science"]
 author: "Tomasz Szepieniec"
 tags: ["escience"]

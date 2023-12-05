@@ -6,7 +6,7 @@ description: "this is meta description"
 start: 2016-02-01T00:00:00Z
 end: 2019-01-31T23:59:59Z
 grant_number: "689617"
-image: "/images/image-placeholder.png"
+image: "/images/projects/eurvalve.png"
 categories: ["VHT", "Health"]
 author: "Marian Bubak"
 tags: ["vht"]

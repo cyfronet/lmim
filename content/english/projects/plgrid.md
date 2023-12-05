@@ -6,7 +6,7 @@ description: "this is meta description"
 start: 2009-01-01T00:00:00Z
 end: 2012-04-30T23:59:59Z
 grant_number: "POIG.02.03.00-00-007/08-00"
-image: "/images/image-placeholder.png"
+image: "/images/projects/plgrid.png"
 categories: ["HPC"]
 author: "Marian Bubak"
 tags: ["HPC"]

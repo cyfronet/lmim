@@ -6,7 +6,7 @@ description: "this is meta description"
 date: 2022-04-04T05:00:00Z
 start: 2017-09-01T00:00:00Z
 end: 2018-08-31T23:59:59Z
-image: "/images/image-placeholder.png"
+image: "/images/projects/cecm.png"
 categories: ["VHT", "Health"]
 author: "Marian Bubak"
 tags: ["vht"]

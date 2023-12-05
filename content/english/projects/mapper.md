@@ -6,7 +6,7 @@ description: "this is meta description"
 start: 2010-10-01T00:00:00Z
 end: 2013-09-30T23:59:59Z
 grant_number: "261507"
-image: "/images/image-placeholder.png"
+image: "/images/projects/mapper.png"
 categories: ["escience"]
 author: "Marian Bubak"
 tags: ["escience"]

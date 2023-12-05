@@ -5,7 +5,7 @@ meta_title: ""
 description: "this is meta description"
 start: 2011-04-01T00:00:00Z
 end: 2011-08-31T23:59:59Z
-image: "/images/image-placeholder.png"
+image: "/images/projects/collage.png"
 categories: ["E-Science"]
 author: "Eryk Ciepiela"
 tags: ["escience"]

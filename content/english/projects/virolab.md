@@ -6,7 +6,7 @@ description: "this is meta description"
 start: 2006-03-01T00:00:00Z
 end: 2009-08-31T23:59:59Z
 grant_number: "027446"
-image: "/images/image-placeholder.png"
+image: "/images/projects/virolab.png"
 categories: ["escience", "Health"]
 author: "Marian Bubak"
 tags: ["vht", "escience"]

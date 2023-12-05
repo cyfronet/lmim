@@ -6,7 +6,7 @@ description: "this is meta description"
 start: 2011-03-01T00:00:00Z
 end: 2015-05-31T23:59:59Z
 grant_number: "269978"
-image: "/images/image-placeholder.png"
+image: "/images/projects/vph-share.png"
 categories: ["VHT", "Health"]
 author: "Marian Bubak"
 tags: ["vht"]
