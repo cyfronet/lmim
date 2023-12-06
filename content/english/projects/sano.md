@@ -22,6 +22,8 @@ growing field of computational medicine, developing sophisticated engineering
 methods for the prevention, diagnosis and treatment of disease, and meeting the
 overarching worldwide need for radically streamlined healthcare systems.
 
+{{< youtube ZxLkPIYCGQk >}}
+
 The Sano's area of operation is computational medicine:
   * clinician-led activity can be radically reduced by migrating the majority of
     routine clinical assessments toward computationally-driven,
@@ -49,6 +51,8 @@ The Centre will provide a fully sustainable mix of three advanced technical
 services, loosely categorised as education, project participation and industrial
 product development, with these three strands ultimately contributing
 approximately equally to the Centre’s income stream.
+
+{{< youtube FyfSAyxKk_A >}}
 
 ### Sano partners
   * [**Sano - Centre for Computational Personalised Medicine - International Research Foundation**](https://sano.science)
