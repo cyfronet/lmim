@@ -3,14 +3,14 @@ acronym: "K-WF GRID"
 title: "Knowledge-based Workflow System for Grid Applications"
 meta_title: ""
 description: "this is meta description"
-start: 2004-08-01T00:00:00Z
-end: 2007-07-31T23:59:59Z
+start: 2004-08-10T00:00:00Z
+end: 2007-08-10T23:59:59Z
 grant_number: "511385"
-image: "/images/image-placeholder.png"
-categories: ["VHT", "Health"]
+image: "/images/projects/gslm.png"
+categories: ["Grid"]
 author: "Marian Bubak"
-tags: ["vht"]
-draft: true
+tags: ["grid"]
+draft: false
 ---
 
 The Knowledge-based Workflow System for Grid Applications (K-Wf Grid) project
@@ -22,3 +22,4 @@ adopted the approaches envisioned by semantic Web and Grid communities in a
 novel, generic infrastructure. The K-Wf Grid system assists its users in
 composing powerful Grid workflows by means of a rule-based expert system.
 
+[Project website](https://cordis.europa.eu/project/id/511385)
