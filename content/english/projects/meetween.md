@@ -1,6 +1,7 @@
 ---
 acronym: "Meetween"
-title: "How to build an Application with modern Technology"
+title: "My Personal AI Mediator for Virtual MEETtings BetWEEN People
+"
 meta_title: ""
 description: "this is meta description"
 date: 2022-04-04T05:00:00Z
