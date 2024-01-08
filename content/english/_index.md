@@ -41,14 +41,12 @@ features:
 
   - title: "Featured publications"
     image: "/images/publications.png"
-    content: "With Hugo, you can build modern and content-focused websites without sacrificing performance or ease of use."
     bulletpoints:
-      - "Instantly load static sites for better user experience and SEO."
-      - "Intuitive syntax and support for popular frameworks make learning and using Hugo a breeze."
-      - "Use any front-end library or framework, or build custom components, for any project size."
-      - "Built on cutting-edge technology to keep your projects up-to-date with the latest web standards."
+      - "[Quantum Absentminded Driver Problem Revisited](publications/2022-01-01_quantum_absentminded/)"
+      - "[Effect of Particularisation Size on the Accuracy and Efficiency of a Multiscale Tumours' Growth Model](publications/2022-01-01_effect_of_particular/)"
+      - "[Towards a European Health Research and Innovation Cloud (HRIC)](publications/2020-01-01_towards_a_european_h/)"
     button:
-      enable: false
-      label: ""
-      link: ""
+      enable: true
+      label: "See all publications"
+      link: "publications"
 ---
