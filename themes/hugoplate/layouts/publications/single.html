@@ -1,0 +1,14 @@
+{{ define "main" }}
+  {{ partial "page-header" . }}
+  <section class="container section-sm">
+    <h3 class="mt-5">{{ .Title }}</h3>
+    <h5>{{ delimit .Params.authors ", " }}</h5>
+      <p> {{ .Params.publication}} </p>
+      <div class="content mt-6">
+        {{ .Content }}
+      </div>
+
+      <!-- <p>{{ .Params.project }}</p> -->
+  </section>
+
+{{ end }}

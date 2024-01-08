@@ -1,0 +1,36 @@
+{{ define "main" }}
+
+  {{ partial "page-header" . }}
+  <section class="section">
+      <div class="container">
+        <div class="row">
+          <div class="lg:col-8">
+            <div class="row gx-5">
+            {{ $paginator:= .Paginate .RegularPages 10 }}
+              {{ range $paginator.Pages.GroupByPublishDate "2006"}}
+                <h2>{{ .Key }}</h2>
+                  {{ range .Pages}}
+                    <li>
+                      <a href="{{ .RelPermalink }}">
+                        <b>{{ .Title }}</b>
+                        <br>
+                        {{ delimit .Params.authors ", " }}
+                      </a>
+                    </li>
+                  {{ end }}
+              {{ end }}
+            </div>
+            {{ partial "components/pagination.html" . }}
+          </div>
+          <div class="lg:col-4">
+            <!-- widget -->
+            {{ $widget:= site.Params.widgets.sidebar }}
+            {{ partialCached "widgets/widget-wrapper" ( dict "Widgets" $widget "Scope" . ) }}
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+{{ end }}
+
+
