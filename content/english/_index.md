@@ -30,10 +30,10 @@ features:
   - title: "Current research projects"
     image: "/images/projects.png"
     bulletpoints:
-      - "**Sano**: Centre for New Methods in Computational Diagnostics and Personalised Therapy"
-      - "**Edith**: European Virtual Human Twin"
-      - "**Meetween**: My Personal AI Mediator for Virtual MEETtings BetWEEN People"
-      - "**Towards GEMINI**: A Generation of Multi-scale Digital Twins of Ischaemic and Haemorrhagic Stroke Patients"
+      - "[**Sano**: Centre for New Methods in Computational Diagnostics and Personalised Therapy](projects/sano)"
+      - "[**Edith**: European Virtual Human Twin](projects/edith)"
+      - "[**Meetween**: My Personal AI Mediator for Virtual MEETtings BetWEEN People](projects/meetween)"
+      - "[**Towards GEMINI**: A Generation of Multi-scale Digital Twins of Ischaemic and Haemorrhagic Stroke Patients](projects/gemini)"
     button:
       enable: true
       label: "See all projects"
