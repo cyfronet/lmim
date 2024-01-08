@@ -22,7 +22,27 @@ url = "team/"
 weight = 4
 
 [[main]]
+name = "Resources"
 weight = 5
+hasChildren = true
+
+[[main]]
+parent = "Resources"
+name = "Papers"
+url = "papers/"
+
+[[main]]
+parent = "Resources"
+name = "Posters"
+url = "posters/"
+
+[[main]]
+parent = "Resources"
+name = "Presentations"
+url = "presentations/"
+
+[[main]]
+weight = 6
 name = "Pages"
 hasChildren = true
 

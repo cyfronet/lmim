@@ -1,0 +1,10 @@
+{{ define "main" }}
+  {{ partial "page-header" . }}
+  <section class="section container">
+    {{ range .Resources }}
+    <li>
+      <a href="{{ .RelPermalink }}">{{ .Name }}</a>
+    </li>
+    {{ end }}
+  </section>
+{{ end }}
