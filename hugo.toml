@@ -165,4 +165,4 @@ lazy = true
 link = "plugins/youtube-lite.js"
 lazy = true
 
-staticDir=["static/posters", "static/presentations", "static/theses"]
+staticDir=["primage"]
