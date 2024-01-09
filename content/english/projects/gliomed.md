@@ -51,9 +51,11 @@ Infrastructure will help the Gliomed researchers in efficient management of
 research data and analysis results.
 
 ## Partners
-  * Medical University of Silesia (Katowice)
-  * Medical University of Warsaw
-  * Nencki Institute of Experimental Biology, Polish Academy of Sciences (Warsaw)
-  * Academic Computer Centre Cyfronet AGH (Krakow)
-  * Regional Science and Technology Center (Podzamcze)
-  * Oncogene Diagnostics Sp. z o.o. (Krakow)
+  - Medical University of Silesia (Katowice)
+  - Medical University of Warsaw
+  - Nencki Institute of Experimental Biology, Polish Academy of Sciences (Warsaw)
+  - Academic Computer Centre Cyfronet AGH (Krakow)
+  - Regional Science and Technology Center (Podzamcze)
+  - Oncogene Diagnostics Sp. z o.o. (Krakow)
+
+Projekt współfinansowany przez Narodowe Centrum Badań i Rozwoju w ramach strategicznego programu badań naukowych i prac rozwojowych "Profilaktyka i leczenie chorób cywilizacyjnych - [STRATEGMED](http://www.ncbr.gov.pl/programy-strategiczne/profilaktyka-i-leczenie-chorob-cywilizacyjnych---strategmed/)"
