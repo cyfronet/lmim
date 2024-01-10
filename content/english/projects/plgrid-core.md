@@ -40,5 +40,10 @@ execution of large-scale applications organized in a workflow, a tool enabling
 automatic selection of scientific literature, and an environment supporting data
 farming mass computations.
 
+We would be very grateful for your opinions. If you are using our ideas or tools, please cite appropriate papers from the list of [Publications](/lmim/publications) related to PLGrid Core.
+
 [Official project website](http://www.plgrid.pl)
 
+## PLGrid Core Posters and Flyers
+
+Negative feedback based simulations of bio-systems (2014) ([PDF](/lmim/plgrid_core/cgw2014-poster-wach-v2.pdf)) J. Wach, M. Bubak, L. Konieczny, I. Roterman-Konieczna; poster presented during [CGW Workshop'14](http://www.cyfronet.krakow.pl/cgw14/); 27-29 October, 2014, Krakow, Poland.
