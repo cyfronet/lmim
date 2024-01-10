@@ -19,3 +19,4 @@ Clouds. The project has dual aims of making changes in three 'client'
 infrastructures to improve their service management maturity and developing
 material to assist other infrastructures in making their own improvements.
 
+[Official project website](http://fedsm.eu/)
