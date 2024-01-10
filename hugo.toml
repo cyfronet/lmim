@@ -165,4 +165,4 @@ lazy = true
 link = "plugins/youtube-lite.js"
 lazy = true
 
-staticDir=["primage", "process"]
+staticDir=["primage", "process", "cecm"]
