@@ -30,7 +30,6 @@ processing and physics-based mathematical modelling, to data reduction and
 representation.
 
 [Official project website](http://www.vph-share.eu/)
-[Tutorial for users](http://vph.cyfronet.pl/tutorial)
 
 ## VPH-Share Deliverables
 - [VPH-Share-wp2-d2.1-v13.pdf](/lmim/vph_share/vph-share-wp2-d2.1-v13.pdf)
