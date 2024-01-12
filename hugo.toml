@@ -166,4 +166,4 @@ link = "plugins/youtube-lite.js"
 lazy = true
 
 staticDir=["primage", "process", "cecm", "eurvalve", "plgrid_core", "paasage",
- "collage", "vph_share", "mapper", "plgrid_plus"]
+ "collage", "vph_share", "mapper", "plgrid_plus", "plgrid"]
