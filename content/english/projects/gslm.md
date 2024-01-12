@@ -23,3 +23,8 @@ experts in grid operations and management with leading members of the IT Service
 Management community, the project aimed to generate new approaches and concepts
 for grid SLM.
 
+## Publications
+
+- B. Balis, R. Slota, J. Kitowski, M. Bubak: On-Line Monitoring of Service-Level Agreements in the Grid. Euro-Par Workshops (2) 2011: 76-85, Springer 2012 Lecture Notes in Computer Science ISBN 978-3-642-29739-7 (2012)
+- R. Cushing, S. Koulouzis, R. J. Strijkers, A. Belloum, M. Bubak: Service Level Management for Executable Papers. Euro-Par Workshops (2) 2011: 116-123, Springer 2012 Lecture Notes in Computer Science ISBN 978-3-642-29739-7 (2012)
+- T. Szepieniec, J. Kocot, T. Schaaf, O. Appleton, M. Heikkurinen, A. Belloum, J. Serrat-Fernandez, M. Metzker: On Importance of Service Level Management in Grids. In: Euro-Par 2011 Parallel Processing Workshops, LNCS, Springer (2011)
