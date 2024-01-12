@@ -49,3 +49,12 @@ the available Grid services and data resources. Moreover, GridSpace is capable
 of interfacing end users and present them with custom user interfaces, adapted
 to the needs of individual application domains.
 
+## Publications
+- B. Balis, M. Bubak: An Ontology Model for Execution Records of Grid Scientific Applications. In: Proceedings of the 4th International Conference on Semantics, Knowledge and Grid (SKG 2008), Beijing, China (3-5 December 2008)
+- B. Balis, M. Bubak: Monitoring Infrastructure for Grid Scientific Workflows. In: Proceedings of the 3rd Workshop on Workflows in Support of Large-Scale Science (WORKS08 , Austin, Texas (November 17, 2008)
+- D. Harezlak, P. Nowakowski, M. Bubak: Secure User Management in a Grid Framework, Cracow Grid Workshop 08, 13-15 October 2008, Krakow, Poland (2008)
+- D. Harezlak, P. Nowakowski, M. Bubak: A New Approach to Development and Execution of Interactive Applications on the Grid. Cracow Grid Workshop 08, 13-15 October 2008, Krakow, Poland (2008)
+- D. Harezlak, P. Nowakowski, M. Bubak: Appea: A Framework for Design and Implementation of Business Applications on the Grid. In: Proceedings of Computational Science - ICCS 2008, vol. III, 8th International Conference, Krakow, Poland, June 2008, LNCS, vol. 5103, Springer (2008)
+- P. Nowakowski, D. Harezlak, M. Bubak: A New Approach to Development and Execution of Interactive Applications on the Grid. In: Proceedings of the 8th IEEE International Symposium on Cluster Computing and the Grid (CCGrid 2008), 19-22 May 2008, Lyon, France, IEEE Computer Society, pp. 681-686 (2008)
+- GREDIA Consortium: GREDIA: enabling access to media content, Journal of eStrategies Europe, British Publishers (May 2008)
+- P. Nowakowski, D. Harezlak, M. Bubak: Application Development Platform for Business Users, eChallenges e-2007 Conference & Exhibition, The Hague (October 24-26, 2007)
