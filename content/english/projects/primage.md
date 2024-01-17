@@ -85,8 +85,8 @@ within the project.
 - M. Kasztelnik, T. Gubała, P. Nowakowski, J. Meizner, P. Połeć, M. Malawski, M. Bubak: [High-level APIs for managing computations on the HPC systems](/lmim/primage/kkdm-2022-rimrock-plgdata-mee.pptx.pdf), presented at the KU KDM 2022 conference, online, 7-8.04.2022
 - Kasztelnik, M., Sosnowski, D., Nowakowski, P., Bubak, M.: Enabling organized computer simulations with patient cohort data, presented at CompBioMed Conference 2021, 15-17 September, 2021, https://cbmc21.vfairs.com/, talk available at https://www.youtube.com/watch?v=iZBmctHPBpE
 - M. Bubak, M. Kasztelnik, J. Meizner, P. Nowakowski, T. Gubała, M. Malawski: Towards a Universal Platform for Large Scale Simulations on Prometheus ([abstract](/lmim/primage/Meizner_Jan_2.pdf), [presentation](/lmim/primage/KUKDM-2020-Towards-Universal.pptx)), KUKDM 2020 Conference planned on 5-6.03.2020
-- M. Bubak, T. Gubala, R. Hose, M. Kasztelnik, M. Malawski, J. Meizner, P. Nowakowski, S. Wood: [Processing Complex Medical Workflows in the EurValve Environment](/lmim/primage/), CompBioMed'19, London, UK, 25-27 September 2019
-- M. Bubak, T. Gubala, M. Kasztelnik, M. Malawski, J. Meizner, P. Nowakowski: [In quest for reproducibility of medical simulations on e-infrastructures](/lmim/primage/), CompBioMed Workshop on Containers Technologies, Amsterdam, The Netherlands, 29.03.2019
+- M. Bubak, T. Gubala, R. Hose, M. Kasztelnik, M. Malawski, J. Meizner, P. Nowakowski, S. Wood: [Processing Complex Medical Workflows in the EurValve Environment](/lmim/primage/62_Piotr_Nowakowski_MEE_CBM_v03.pptx), CompBioMed'19, London, UK, 25-27 September 2019
+- M. Bubak, T. Gubala, M. Kasztelnik, M. Malawski, J. Meizner, P. Nowakowski: [In quest for reproducibility of medical simulations on e-infrastructures](/lmim/primage/MB-CompBioMed-29-03-2019-v1.1-mb.pptx), CompBioMed Workshop on Containers Technologies, Amsterdam, The Netherlands, 29.03.2019
 
 
 ## First PRIMAGE Working Session, 28-30 April 2020
