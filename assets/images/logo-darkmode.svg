@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="485.345mm"
+   height="143.04153mm"
+   viewBox="0 0 485.345 143.04153"
+   version="1.1"
+   id="svg8080"
+   sodipodi:docname="logo-darkmode.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview8082"
+     pagecolor="#000000"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.77771465"
+     inkscape:cx="1497.3358"
+     inkscape:cy="169.08515"
+     inkscape:window-width="3370"
+     inkscape:window-height="1376"
+     inkscape:window-x="70"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g55250"
+     showguides="true"
+     width="421mm"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0">
+    <inkscape:grid
+       type="xygrid"
+       id="grid8184"
+       originx="-2.1799234"
+       originy="-85.954552" />
+  </sodipodi:namedview>
+  <defs
+     id="defs8077">
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter63403"
+       inkscape:label="filter0" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-2.1799233,-85.95455)">
+    <g
+       id="g55446"
+       transform="matrix(8,0,0,8,-316.68207,-631.51105)">
+      <g
+         id="g55250"
+         inkscape:export-filename="/home/marek/playground/ack-lmim/assets/images/logo.png"
+         inkscape:export-xdpi="44.680569"
+         inkscape:export-ydpi="44.680569"
+         style="stroke-width:1.6;stroke-miterlimit:4;stroke-dasharray:none">
+        <rect
+           style="fill:none;stroke:#fdfdfd;stroke-width:1.6;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect846"
+           width="16.280191"
+           height="16.280191"
+           x="40.657749"
+           y="90.4832"
+           rx="3.9999998"
+           ry="3.9999998" />
+        <g
+           id="g51532"
+           transform="rotate(-40.8911,-29.656814,153.21597)"
+           style="stroke-width:1.6;stroke-miterlimit:4;stroke-dasharray:none">
+          <circle
+             style="fill:#fdfdfd;fill-opacity:1;stroke:none;stroke-width:1.6;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             id="path1096"
+             cx="-66.39608"
+             cy="164.55151"
+             r="1.290689"
+             transform="rotate(-45)" />
+          <circle
+             style="fill:#fdfdfd;fill-opacity:1;stroke:none;stroke-width:1.6;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             id="path1096-0"
+             cx="-69.236771"
+             cy="161.71083"
+             r="1.290689"
+             transform="rotate(-45)" />
+          <circle
+             style="fill:#fdfdfd;fill-opacity:1;stroke:none;stroke-width:1.6;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             id="path1096-9"
+             cx="-72.077461"
+             cy="158.87013"
+             r="1.290689"
+             transform="rotate(-45)" />
+        </g>
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-size:14.8167px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583;fill:#fdfdfd;fill-opacity:1"
+         x="63.238144"
+         y="104.147"
+         id="text3520"
+         inkscape:export-filename="/home/marek/playground/ack-lmim/assets/images/logo.png"
+         inkscape:export-xdpi="44.680569"
+         inkscape:export-ydpi="44.680569"><tspan
+           sodipodi:role="line"
+           id="tspan3518"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.8167px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583;fill:#fdfdfd;fill-opacity:1"
+           x="63.238144"
+           y="104.147"
+           rotate="0 0 0 0">DiCE</tspan></text>
+    </g>
+  </g>
+</svg>
