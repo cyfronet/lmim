@@ -22,7 +22,7 @@ growing field of computational medicine, developing sophisticated engineering
 methods for the prevention, diagnosis and treatment of disease, and meeting the
 overarching worldwide need for radically streamlined healthcare systems.
 
-{{< youtube ZxLkPIYCGQk >}}
+{{< youtube yqALOZM1UBM >}}
 
 The Sano's area of operation is computational medicine:
   * clinician-led activity can be radically reduced by migrating the majority of
@@ -77,6 +77,6 @@ approximately equally to the Centre’s income stream.
 [The list of current Sano Centre Personnel](https://sano.science/people)
 
 #### Former Cyfronet Teaming for Excellence project members
-  * Jan Meizner,
+  * Jan Meizner
   * Tomasz Michalczyk
   * Tadeusz Satława
