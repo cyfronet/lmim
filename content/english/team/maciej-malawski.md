@@ -14,7 +14,7 @@ social:
 
   - name: scholar
     icon: fa-solid fa-graduation-cap
-    linke: http://scholar.google.com/citations?user=IeeOCucAAAAJ
+    link: http://scholar.google.com/citations?user=IeeOCucAAAAJ
 ---
 
 Researcher
