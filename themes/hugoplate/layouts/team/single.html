@@ -35,12 +35,31 @@
         </div>
       </div>
 
+      <h2>Projects</h2>
       <div class="row pb-16 pt-14">
         {{ $filterByAuthor := where site.RegularPages "Params.author" "==" .Title }}
         {{ range $filterByAuthor }}
           <div class="md:col-6 lg:col-4 mb-12">
             {{ partial "components/blog-card" . }}
           </div>
+        {{ end }}
+      </div>
+
+      <h2>Publications</h2>
+      <div class="row">
+        {{ $title := .Title }}
+        {{ range site.RegularPages}}
+            {{ if (in .Params.authors $title) }}
+            <br>
+              <section class="container section-sm col-4">
+                <h3>
+                  <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+                </h3>
+                <p> {{ .Params.publication}} </p>
+
+                  <p>{{ .Params.project }}</p>
+              </section>
+            {{ end}}
         {{ end }}
       </div>
     </div>
