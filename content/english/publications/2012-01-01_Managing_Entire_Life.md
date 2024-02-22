@@ -1,7 +1,7 @@
 ---
 title: "Managing Entire Lifecycles of E-Science Applications in the GridSpace2 Virtual Laboratory – From Motivation through Idea to Operable Web-Accessible Environment Built on Top of PL-Grid e-Infrastructure"
 date: "2012-01-01"
-authors: ["Eryk Ciepiela", "Piotr Nowakowski", "Joanna Kocot", "Daniel Harezlak", "Tomasz Gubala", "Jan Meizner", "Marek Kasztelnik", "Tomasz Bartynski", "Maciej Malawski", "Marian Bubak"]
+authors: ["Eryk Ciepiela", "Piotr Nowakowski", "Joanna Kocot", "Daniel Harężlak", "Tomasz Gubała", "Jan Meizner", "Marek Kasztelnik", "Tomasz Bartynski", "Maciej Malawski", "Marian Bubak"]
 publication_types: ["6"]
 publication: " In Marian Bubak, Tomasz Szepieniec & Kazimierz Wiatr: Building a National Distributed E-Infrastructure–PL-Grid: Scientific and Technical Achievements. 6  228--239. Berlin, Heidelberg: Springer https://doi.org/10.1007/978-3-642-28267-6_18. ISBN: 978-3-642-28267-6"
 publication_short: " In Marian Bubak, Tomasz Szepieniec & Kazimierz Wiatr: Building a National Distributed E-Infrastructure–PL-Grid: Scientific and Technical Achievements. 6  228--239. Berlin, Heidelberg: Springer https://doi.org/10.1007/978-3-642-28267-6_18. ISBN: 978-3-642-28267-6"

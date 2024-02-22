@@ -1,7 +1,7 @@
 ---
 title: "Improvements in Quality Control and Library Preparation for Targeted Sequencing Allowed Detection of Potentially Pathogenic Alterations in Circulating Cell-Free DNA Derived from Plasma of Brain Tumor Patients"
 date: "2022-01-01"
-authors: ["Paulina Szadkowska", "Adria-Jaume Roura", "Bartosz Wojtas", "Kamil Wojnicki", "Sabina Licholai", "Tomasz Waller", "Tomasz Gubala", "Kacper Zukowski", "Michal Karpeta", "Kinga Wilkus", "Wojciech Kaspera", "Sergiusz Nawrocki", "Bozena Kaminska"]
+authors: ["Paulina Szadkowska", "Adria-Jaume Roura", "Bartosz Wojtas", "Kamil Wojnicki", "Sabina Licholai", "Tomasz Waller", "Tomasz Gubała", "Kacper Zukowski", "Michal Karpeta", "Kinga Wilkus", "Wojciech Kaspera", "Sergiusz Nawrocki", "Bozena Kaminska"]
 publication_types: ["2"]
 publication: "Cancers, 142 (16) 3902. Multidisciplinary Digital Publishing Institute https://doi.org/10.3390/cancers14163902"
 publication_short: "Cancers, 142 (16) 3902. Multidisciplinary Digital Publishing Institute https://doi.org/10.3390/cancers14163902"

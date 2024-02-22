@@ -1,7 +1,7 @@
 ---
 title: "Computations of Protein Hydrophobicity Profile as Virtual Experiment in Gridspace Virtual Laboratory"
 date: "2012-01-01"
-authors: ["Eryk Ciepiela", "Tomasz Jadczyk", "Daniel Harezlak", "Marek Kasztelnik", "Piotr Nowakowski", "Grzegorz Dyk", "Maciej Malawski", "Marian Bubak", "Irena Roterman"]
+authors: ["Eryk Ciepiela", "Tomasz Jadczyk", "Daniel Harężlak", "Marek Kasztelnik", "Piotr Nowakowski", "Grzegorz Dyk", "Maciej Malawski", "Marian Bubak", "Irena Roterman"]
 publication_types: ["2"]
 publication: "Bio-Algorithms and Medical-Systems, 82 (4) 361--372. De Gruyter https://doi.org/10.1515/bams-2012-0026"
 publication_short: "Bio-Algorithms and Medical-Systems, 82 (4) 361--372. De Gruyter https://doi.org/10.1515/bams-2012-0026"

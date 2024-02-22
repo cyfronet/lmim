@@ -1,7 +1,7 @@
 ---
 title: "Composing, Execution and Sharing of Multiscale Applications"
 date: "2015-01-01"
-authors: ["Katarzyna Rycerz", "Marian Bubak", "Eryk Ciepiela", "Daniel Harezlak", "Tomasz Gubala", "Jan Meizner", "Maciej Pawlik", "Bartosz Wilk"]
+authors: ["Katarzyna Rycerz", "Marian Bubak", "Eryk Ciepiela", "Daniel Harężlak", "Tomasz Gubała", "Jan Meizner", "Maciej Pawlik", "Bartosz Wilk"]
 publication_types: ["2"]
 publication: "Future Generation Computer Systems, 532  77--87. https://doi.org/10.1016/j.future.2015.06.002"
 publication_short: "Future Generation Computer Systems, 532  77--87. https://doi.org/10.1016/j.future.2015.06.002"

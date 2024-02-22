@@ -1,7 +1,7 @@
 ---
 title: "GridSpace – Semantic Programming Environment for the Grid"
 date: "2006-01-01"
-authors: ["Tomasz Gubala", "Marian Bubak"]
+authors: ["Tomasz Gubała", "Marian Bubak"]
 publication_types: ["1"]
 publication: " In Roman Wyrzykowski, Jack Dongarra, Norbert Meyer & Jerzy Waśniewski: Parallel Processing and Applied Mathematics. 1  172--179. Berlin, Heidelberg: Springer https://doi.org/10.1007/11752578_22. ISBN: 978-3-540-34142-0"
 publication_short: " In Roman Wyrzykowski, Jack Dongarra, Norbert Meyer & Jerzy Waśniewski: Parallel Processing and Applied Mathematics. 1  172--179. Berlin, Heidelberg: Springer https://doi.org/10.1007/11752578_22. ISBN: 978-3-540-34142-0"

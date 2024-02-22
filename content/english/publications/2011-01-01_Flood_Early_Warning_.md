@@ -1,7 +1,7 @@
 ---
 title: "Flood Early Warning System: Design, Implementation and Computational Modules"
 date: "2011-01-01"
-authors: ["V. V. Krzhizhanovskaya", "G. S. Shirshov", "N. B. Melnikova", "R. G. Belleman", "F. I. Rusadi", "B. J. Broekhuijsen", "B. P. Gouldby", "J. Lhomme", "B. Balis", "M. Bubak", "A. L. Pyayt", "I. I. Mokhov", "A. V. Ozhigin", "B. Lang", "R. J. Meijer"]
+authors: ["V. V. Krzhizhanovskaya", "G. S. Shirshov", "N. B. Melnikova", "R. G. Belleman", "F. I. Rusadi", "B. J. Broekhuijsen", "B. P. Gouldby", "J. Lhomme", "Bartosz Baliś", "Marian Bubak", "A. L. Pyayt", "I. I. Mokhov", "A. V. Ozhigin", "B. Lang", "R. J. Meijer"]
 publication_types: ["2"]
 publication: "Procedia Computer Science, 42  106--115. https://doi.org/10.1016/j.procs.2011.04.012"
 publication_short: "Procedia Computer Science, 42  106--115. https://doi.org/10.1016/j.procs.2011.04.012"

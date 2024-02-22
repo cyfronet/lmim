@@ -1,7 +1,7 @@
 ---
 title: "Fault Tolerant Grid Registry"
 date: "2007-01-01"
-authors: ["Marek Kasztelnik", "Marian Bubak Supervisor", "Cezary Gorka", "Maciej Malawski", "Tomasz Gubala"]
+authors: ["Marek Kasztelnik", "Marian Bubak", "Cezary Gorka", "Maciej Malawski", "Tomasz Gubała"]
 publication_types: ["1"]
 publication: " In Péter Kacsuk, Thomas Fahringer & Zsolt Németh: Distributed and Parallel Systems. 1  135--144. Boston, MA: Springer US https://doi.org/10.1007/978-0-387-69858-8_14. ISBN: 978-0-387-69858-8"
 publication_short: " In Péter Kacsuk, Thomas Fahringer & Zsolt Németh: Distributed and Parallel Systems. 1  135--144. Boston, MA: Springer US https://doi.org/10.1007/978-0-387-69858-8_14. ISBN: 978-0-387-69858-8"

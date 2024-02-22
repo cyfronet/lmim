@@ -1,7 +1,7 @@
 ---
 title: "DNA Microarray Integromics Analysis Platform"
 date: "2015-01-01"
-authors: ["Tomasz Waller", "Tomasz Gubala", "Krzysztof Sarapata", "Monika Piwowar", "Wiktor Jurkowski"]
+authors: ["Tomasz Waller", "Tomasz Gubała", "Krzysztof Sarapata", "Monika Piwowar", "Wiktor Jurkowski"]
 publication_types: ["2"]
 publication: "BioData Mining, 82 (1) 18. https://doi.org/10.1186/s13040-015-0052-6"
 publication_short: "BioData Mining, 82 (1) 18. https://doi.org/10.1186/s13040-015-0052-6"

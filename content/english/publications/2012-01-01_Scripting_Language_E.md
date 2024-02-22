@@ -1,7 +1,7 @@
 ---
 title: "Scripting Language Extensions Offered by the GridSpace Experiment Platform"
 date: "2012-01-01"
-authors: ["Daniel Harezlak", "Marek Kasztelnik", "Eryk Ciepiela", "Marian Bubak"]
+authors: ["Daniel Harężlak", "Marek Kasztelnik", "Eryk Ciepiela", "Marian Bubak"]
 publication_types: ["6"]
 publication: " In Marian Bubak, Tomasz Szepieniec & Kazimierz Wiatr: Building a National Distributed E-Infrastructure–PL-Grid: Scientific and Technical Achievements. 6  217--227. Berlin, Heidelberg: Springer https://doi.org/10.1007/978-3-642-28267-6_17. ISBN: 978-3-642-28267-6"
 publication_short: " In Marian Bubak, Tomasz Szepieniec & Kazimierz Wiatr: Building a National Distributed E-Infrastructure–PL-Grid: Scientific and Technical Achievements. 6  217--227. Berlin, Heidelberg: Springer https://doi.org/10.1007/978-3-642-28267-6_17. ISBN: 978-3-642-28267-6"

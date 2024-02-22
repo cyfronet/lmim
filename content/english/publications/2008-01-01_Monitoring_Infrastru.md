@@ -1,7 +1,7 @@
 ---
 title: "Monitoring Infrastructure for Grid Scientific Workflows"
 date: "2008-01-01"
-authors: ["Bartosz Balis", "Marian Bubak"]
+authors: ["Bartosz Baliś", "Marian Bubak"]
 publication_types: ["1"]
 publication: "2008 Third Workshop on Workflows in Support of Large-Scale Science. 1  1--10. https://doi.org/10.1109/WORKS.2008.4723959"
 publication_short: "2008 Third Workshop on Workflows in Support of Large-Scale Science. 1  1--10. https://doi.org/10.1109/WORKS.2008.4723959"

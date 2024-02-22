@@ -1,7 +1,7 @@
 ---
 title: "The Collage Authoring Environment: From Proof-of-Concept Prototype to Pilot Service"
 date: "2013-01-01"
-authors: ["Eryk Ciepiela", "Daniel Harezlak", "Marek Kasztelnik", "Jan Meizner", "Grzegorz Dyk", "Piotr Nowakowski", "Marian Bubak"]
+authors: ["Eryk Ciepiela", "Daniel Harężlak", "Marek Kasztelnik", "Jan Meizner", "Grzegorz Dyk", "Piotr Nowakowski", "Marian Bubak"]
 publication_types: ["2"]
 publication: "Procedia Computer Science, 182  769--778. https://doi.org/10.1016/j.procs.2013.05.241"
 publication_short: "Procedia Computer Science, 182  769--778. https://doi.org/10.1016/j.procs.2013.05.241"

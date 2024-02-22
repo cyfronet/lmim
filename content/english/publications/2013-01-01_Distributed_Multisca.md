@@ -1,7 +1,7 @@
 ---
 title: "Distributed Multiscale Computations Using the MAPPER Framework"
 date: "2013-01-01"
-authors: ["Mohamed Ben Belgacem", "Bastien Chopard", "Joris Borgdorff", "Mariusz Mamonski", "Katarzyna Rycerz", "Daniel Harezlak"]
+authors: ["Mohamed Ben Belgacem", "Bastien Chopard", "Joris Borgdorff", "Mariusz Mamonski", "Katarzyna Rycerz", "Daniel Harężlak"]
 publication_types: ["2"]
 publication: "Procedia Computer Science, 182  1106--1115. https://doi.org/10.1016/j.procs.2013.05.276"
 publication_short: "Procedia Computer Science, 182  1106--1115. https://doi.org/10.1016/j.procs.2013.05.276"

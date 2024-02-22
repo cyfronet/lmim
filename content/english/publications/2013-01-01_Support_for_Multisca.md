@@ -1,7 +1,7 @@
 ---
 title: "Support for Multiscale Simulations with Molecular Dynamics"
 date: "2013-01-01"
-authors: ["Katarzyna Rycerz", "Eryk Ciepiela", "Grzegorz Dyk", "Derek Groen", "Tomasz Gubala", "Daniel Harezlak", "Maciej Pawlik", "James Suter", "Stefan Zasada", "Peter Coveney", "Marian Bubak"]
+authors: ["Katarzyna Rycerz", "Eryk Ciepiela", "Grzegorz Dyk", "Derek Groen", "Tomasz Gubała", "Daniel Harężlak", "Maciej Pawlik", "James Suter", "Stefan Zasada", "Peter Coveney", "Marian Bubak"]
 publication_types: ["2"]
 publication: "Procedia Computer Science, 182  1116--1125. https://doi.org/10.1016/j.procs.2013.05.277"
 publication_short: "Procedia Computer Science, 182  1116--1125. https://doi.org/10.1016/j.procs.2013.05.277"

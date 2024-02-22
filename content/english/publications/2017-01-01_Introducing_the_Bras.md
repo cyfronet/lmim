@@ -1,7 +1,7 @@
 ---
 title: "Introducing the Brassica Information Portal: Towards Integrating Genotypic and Phenotypic Brassica Crop Data"
 date: "2017-01-01"
-authors: ["Annemarie H. Eckes", "Tomasz Gubala", "Piotr Nowakowski", "Tomasz Szymczyszyn", "Rachel Wells", "Judith A. Irwin", "Carlos Horro", "John M. Hancock", "Graham King", "Sarah C. Dyer", "Wiktor Jurkowski"]
+authors: ["Annemarie H. Eckes", "Tomasz Gubała", "Piotr Nowakowski", "Tomasz Szymczyszyn", "Rachel Wells", "Judith A. Irwin", "Carlos Horro", "John M. Hancock", "Graham King", "Sarah C. Dyer", "Wiktor Jurkowski"]
 publication_types: ["0"]
 publication: "0 (6:465) F1000Research https://doi.org/10.12688/f1000research.11301.2"
 publication_short: "0 (6:465) F1000Research https://doi.org/10.12688/f1000research.11301.2"

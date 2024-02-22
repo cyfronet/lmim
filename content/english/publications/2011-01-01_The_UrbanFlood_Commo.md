@@ -1,7 +1,7 @@
 ---
 title: "The UrbanFlood Common Information Space for Early Warning Systems"
 date: "2011-01-01"
-authors: ["Bartosz Balis", "Marek Kasztelnik", "Marian Bubak", "Tomasz Bartynski", "Tomasz Gubala", "Piotr Nowakowski", "Jeroen Broekhuijsen"]
+authors: ["Bartosz Baliś", "Marek Kasztelnik", "Marian Bubak", "Tomasz Bartynski", "Tomasz Gubała", "Piotr Nowakowski", "Jeroen Broekhuijsen"]
 publication_types: ["2"]
 publication: "Procedia Computer Science, 42  96--105. https://doi.org/10.1016/j.procs.2011.04.011"
 publication_short: "Procedia Computer Science, 42  96--105. https://doi.org/10.1016/j.procs.2011.04.011"

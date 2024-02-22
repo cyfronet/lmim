@@ -1,7 +1,7 @@
 ---
 title: "Semantic Composition of Scientific Workflows Based on the Petri Nets Formalism"
 date: "2006-01-01"
-authors: ["Tomasz Gubala", "Daniel Herezlak", "Marian Bubak", "Maciej Malawski"]
+authors: ["Tomasz Gubała", "Daniel Harężlak", "Marian Bubak", "Maciej Malawski"]
 publication_types: ["1"]
 publication: "2006 Second IEEE International Conference on E-Science and Grid Computing (e-Science'06). 1  IEEE Computer Society https://doi.org/10.1109/E-SCIENCE.2006.261096"
 publication_short: "2006 Second IEEE International Conference on E-Science and Grid Computing (e-Science'06). 1  IEEE Computer Society https://doi.org/10.1109/E-SCIENCE.2006.261096"

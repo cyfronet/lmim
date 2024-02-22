@@ -1,7 +1,7 @@
 ---
 title: "The Collage Authoring Environment"
 date: "2011-01-01"
-authors: ["Piotr Nowakowski", "Eryk Ciepiela", "Daniel Harezlak", "Joanna Kocot", "Marek Kasztelnik", "Tomasz Bartynski", "Jan Meizner", "Grzegorz Dyk", "Maciej Malawski"]
+authors: ["Piotr Nowakowski", "Eryk Ciepiela", "Daniel Harężlak", "Joanna Kocot", "Marek Kasztelnik", "Tomasz Bartynski", "Jan Meizner", "Grzegorz Dyk", "Maciej Malawski"]
 publication_types: ["2"]
 publication: "Procedia Computer Science, 42  608--617. https://doi.org/10.1016/j.procs.2011.04.064"
 publication_short: "Procedia Computer Science, 42  608--617. https://doi.org/10.1016/j.procs.2011.04.064"

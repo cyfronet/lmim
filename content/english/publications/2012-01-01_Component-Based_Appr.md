@@ -1,7 +1,7 @@
 ---
 title: "Component-Based Approach for Programming and Running Scientific Applications on Grids and Clouds"
 date: "2012-01-01"
-authors: ["Maciej Malawski", "Tomasz Gubala", "Marian Bubak"]
+authors: ["Maciej Malawski", "Tomasz Gubała", "Marian Bubak"]
 publication_types: ["2"]
 publication: "The International Journal of High Performance Computing Applications, 262 (3) 275--295. SAGE Publications Ltd STM https://doi.org/10.1177/1094342011422924"
 publication_short: "The International Journal of High Performance Computing Applications, 262 (3) 275--295. SAGE Publications Ltd STM https://doi.org/10.1177/1094342011422924"

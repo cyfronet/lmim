@@ -1,7 +1,7 @@
 ---
 title: "Increasing Scientific Workflow Programming Productivity with HyperFlow"
 date: "2014-01-01"
-authors: ["Bartosz Balis"]
+authors: ["Bartosz Baliś"]
 publication_types: ["1"]
 publication: "2014 9th Workshop on Workflows in Support of Large-Scale Science. 1  59--69. https://doi.org/10.1109/WORKS.2014.10"
 publication_short: "2014 9th Workshop on Workflows in Support of Large-Scale Science. 1  59--69. https://doi.org/10.1109/WORKS.2014.10"
