@@ -22,5 +22,6 @@ math: true
 highlight: true
 image: ""
 caption: ""
+types: ["Journal Article"]
 ---
 Computer science provides the language needed to study and understand complex multiscale, multiscience systems. ViroLab, a grid-based decision-support system, demonstrates how researchers can now study diseases from the DNA level all the way up to medical responses to treatment

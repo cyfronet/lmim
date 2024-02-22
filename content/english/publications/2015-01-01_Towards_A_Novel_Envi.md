@@ -23,5 +23,6 @@ math: true
 highlight: true
 image: ""
 caption: ""
+types: ["Journal Article"]
 ---
 In this paper, we analyze existing quantum computer simulation techniques and their realizations to minimize the impact of the exponential complexity of simulated quantum computations. As a result of this investigation, we propose a quantum computer simulator with an integrated development environment – QuIDE – supporting the development of algorithms for future quantum computers. The simulator simplifies building and testing quantum circuits and understanding quantum algorithms in an efficient way. The development environment provides flexibility of source code edition and ease of the graphical building of circuit diagrams. We also describe and analyze the complexity of algorithms used for simulation as well as present performance results of the simulator as well as results of its deployment during university classes.

@@ -22,5 +22,6 @@ math: true
 highlight: true
 image: ""
 caption: ""
+types: ["Conference/workshop paper"]
 ---
 Cloud computing with its on-demand access to resources has emerged as a tool used by researchers from a wide range of domains to run computer-based experiments. In this paper we introduce a flexible experiment management API, written in Python that simplifies and formalizes the execution of scientific experiments on cloud infrastructures. We describe the features and functionality of PRECIP (Pegasus Repeatable Experiments for the Cloud in Python), and how PRECIP can be used to set up experiments on academic clouds such as OpenStack Eucalyptus, Nimbus, and commercial clouds such as Amazon EC2.

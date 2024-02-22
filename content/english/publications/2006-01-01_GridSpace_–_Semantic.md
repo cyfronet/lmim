@@ -22,5 +22,6 @@ math: true
 highlight: true
 image: ""
 caption: ""
+types: ["Conference/workshop paper"]
 ---
 The Grid computing plaform which has emerged recently, while robust and feature-rich, is still considerably complex to program for. Not only the migration of legacy applications is difficult – even the development of a new, complex application from the beginning could be quite a challenge using today’s Grid middleware. This work proposes a new approach to Grid programming. The presented solution called GridSpace, based on the component programming methodology and Semantic Grid initiative achievements, employs decomposition, dynamic organization and semantic comparison techniques in order to provide a new, abstract layer for programmers of Grid applications.

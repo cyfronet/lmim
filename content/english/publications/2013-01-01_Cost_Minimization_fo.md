@@ -23,5 +23,6 @@ math: true
 highlight: true
 image: ""
 caption: ""
+types: ["Journal Article"]
 ---
 We address the problem of task planning on multiple clouds formulated as a mixed integer nonlinear programming problem (MINLP). Its specification with AMPL modeling language allows us to apply solvers such as Bonmin and Cbc. Our model assumes multiple heterogeneous compute and storage cloud providers, such as Amazon, Rackspace, GoGrid, ElasticHosts and a private cloud, parameterized by costs and performance, including constraints on maximum number of resources at each cloud. The optimization objective is the total cost, under deadline constraint. We compute the relation between deadline and cost for a sample set of data- and compute-intensive tasks, representing bioinformatics experiments. Our results illustrate typical problems when making decisions on deployment planning on clouds and how they can be addressed using optimization techniques.

@@ -22,5 +22,6 @@ math: true
 highlight: true
 image: ""
 caption: ""
+types: ["Conference/workshop paper"]
 ---
 (Abstract not available)

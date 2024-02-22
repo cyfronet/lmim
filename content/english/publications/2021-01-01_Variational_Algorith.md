@@ -23,5 +23,6 @@ math: true
 highlight: true
 image: ""
 caption: ""
+types: ["Journal Article"]
 ---
 In this paper we consider the combinatorial optimization problem known as workflow scheduling. We compare three encoding schemes of varying density: one-hot, binary, and domain wall, and test their performance against two well-known hybrid quantum-classical algorithms: Quantum Approximate Optimization Algorithm (QAOA) and Variational Quantum Eigensolver (VQE). In an attempt to obtain the best results possible, we investigate various parameters of the algorithms and test out other state-of-the-art improvements, such as dedicated QAOA mixers. Ultimately, we prove that, despite its popularity, one-hot encoding is not always the best, and using a denser encoding scheme, such as binary or domain wall, can allow for solving larger instances of workflow scheduling. Additionally, combining the above-mentioned encodings with dedicated QAOA mixers reduces the number of infeasible solutions, leading to better results.

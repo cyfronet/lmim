@@ -23,5 +23,6 @@ math: true
 highlight: true
 image: ""
 caption: ""
+types: ["Conference/workshop paper"]
 ---
 We present a prototype of the flood early warning system (EWS) developed within the UrbanFlood FP7 project. The system monitors sensor networks installed in flood defenses (dikes, dams, embankments, etc.), detects sensor signal abnormalities, calculates dike failure probability, and simulates possible scenarios of dike breaching and flood propagation. All the relevant information and simulation results are fed into an interactive decision support system that helps dike managers and city authorities to make informed decisions in case of emergency and in routine dike quality assessment. In addition to that, a Virtual Dike computational module has been developed for advanced research into dike stability and failure mechanisms, and for training the artificial intelligence module on signal parameters induced by dike instabilities. This paper describes the UrbanFlood EWS generic design and functionality, the computational workflow, the individual modules, their integration via the Common Information Space middleware, and the first results of EWS monitoring and performance benchmarks.

@@ -22,5 +22,6 @@ math: true
 highlight: true
 image: ""
 caption: ""
+types: ["Journal Article"]
 ---
 In this article, the authors propose a new approach to distributed computing with Web browsers and introduce the WeevilScout prototype framework. The proliferation of Web browsers and the performance gains being achieved by current JavaScript virtual machines raises the question whether Internet browsers can become yet another middleware for distributed computing. With 2 billion users online, computing through Internet browsers has the potential to amass immense resources, thus transforming the Internet into a distributed computer ideal for common classes of distributed scientific applications such as parametric studies. As a proof of concept, the authors demonstrate how a cluster of globally distributed Internet browsers is used to compute thousands of bio-informatics tasks.

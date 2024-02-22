@@ -22,5 +22,6 @@ math: true
 highlight: true
 image: ""
 caption: ""
+types: ["Conference/workshop paper"]
 ---
 Despite the recent dramatic advances in the computational and data processing capacities of the commodity solutions, a numerous scientific, socioeconomic and industrial “grand challenges” exists that could be solved only through capabilities that exceed the current solutions by orders of magnitude. To demonstrate the feasibility of addressing these problems necessitating processing of exascale data sets, novel architectural approaches are needed. These architectures need to support efficient service composition and balancing infrastructure- and user-centric points of view of exascale infrastructures and services. This combination of bottom-up and top-down approaches aims at narrowing the gap between infrastructure services and paving the way towards future high capacity generations einfrastructure. The resulting architecture will help us provide computing solutions to exascale challenges within the H2020 project PROCESS11PROCESS project homepage https://www.process-project.eu/.

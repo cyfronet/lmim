@@ -23,5 +23,6 @@ math: true
 highlight: true
 image: ""
 caption: ""
+types: ["Conference/workshop paper"]
 ---
 This paper introduces the Quilt Interactive Publication platform, which can be used by computational scientists to publish their research results in the form of interactive publications. The platform will facilitate collaborative development and publication of such papers with the use of distributed computing resources. It will also be capable of retroactively processing existing publications in order to render them interactive and enable further refinement and reuse by collaborative research teams.

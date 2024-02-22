@@ -23,5 +23,6 @@ math: true
 highlight: true
 image: ""
 caption: ""
+types: ["Conference/workshop paper"]
 ---
 We present a global overview of the methodology developed within the MAPPER European project to design, implement and run a multiscale simulation on a distributed supercomputing infrastructure. Our goal is to highlight the main steps required when developing an application within this framework. More specifically, we illustrate the proposed approach in the case of hydrology applications. A performance model describing the execution time of the application as a function of its spatial resolution and the hardware performance is proposed. It shows that Distributed Multiscal Computation is beneficial for large scale problems.

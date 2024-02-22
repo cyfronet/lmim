@@ -22,5 +22,6 @@ math: true
 highlight: true
 image: ""
 caption: ""
+types: ["Conference/workshop paper"]
 ---
 The idea of an application described through its workflow is becoming popular in the Grid community as a natural method of functional decomposition of an application. It shows all the important dependencies as a set of connections of data flow and/or control flow. As scientific workflows grow in size and complexity, a tool to assist end users is becoming necessary. In this paper we describe the formal basis, design and implementation of such a tool -- an assistant which analyzes user requirements regarding application results and works with information registries that provide information on resources available in the Grid. The Workflow Composition Tool (WCT) provides the functionality of automatic workflow construction based on the process of semantic service discovery and matchmaking. It uses a well-designed construction algorithm together with specific heuristics in order to provide useful solutions for application users.

@@ -23,5 +23,6 @@ math: true
 highlight: true
 image: ""
 caption: ""
+types: ["Conference/workshop paper"]
 ---
 Workflow management systems are widely used to solve scientific problems as they enable orchestration of remote and lo- cal services such as database queries, job submission and running an application. To extend the role that workflow systems play in data-intensive science, we propose a solution that integrates WMS and MapReduce model. In this paper, we discuss possible solution of combining MapReduce and workflow applications, we describe the implementation of chosen solution based on metaprogramming approach in Ruby programming language and evaluate it with an example of word count application.

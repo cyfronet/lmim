@@ -23,5 +23,6 @@ math: true
 highlight: true
 image: ""
 caption: ""
+types: ["Conference/workshop paper"]
 ---
 In this paper we present an evolved and extended approach to the monitoring of data flow and resources’ usage in multi- scale applications built with the MUSCLE environment. Most multi-scale platforms provide the ability of running complex computations, but do not sufficiently support monitoring features if any. Combining the monitored multi-scale application with components that support gathering low-level monitoring data into high abstraction level performance information and visualizing it at runtime is the main objective of our approach. Performance monitoring data should be presented to allow the user to easily observe and interpret computation progress. Data access and processing based on ontologies enables easy reconfiguration of monitored resources and application parameters. Moreover, ontologies facilitate automatic reasoning on performance flaws.

@@ -23,5 +23,6 @@ math: true
 highlight: true
 image: ""
 caption: ""
+types: ["Conference/workshop paper"]
 ---
 The aim of this paper is to present the pilot service of the Collage Authoring Environment enabling executable scientific publications that is based on the GridSpace2 distributed computing platform and integrated with the online publisher platform ScienceDirect, provided under the auspices of Elsevier. The scope of this paper includes the work carried out when adapting Collage from a proof-of-concept prototype that was awarded the Grand Prize in the Elsevier Executable Paper Grand Challenge into a robust pilot service deployment supporting real-life use cases.

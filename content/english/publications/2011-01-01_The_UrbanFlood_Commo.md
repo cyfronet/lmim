@@ -23,5 +23,6 @@ math: true
 highlight: true
 image: ""
 caption: ""
+types: ["Conference/workshop paper"]
 ---
 Early Warning Systems (EWS) can play a crucial role in mitigating the effects of natural disasters. Modern EWSs leverage wireless sensors for real-time monitoring of natural phenomena and computing-intensive scientific applications for scenario-based prediction and analysis of sensor data. This paper presents the UrbanFlood Common Information Space (CIS), a framework facilitating the creation, deployment and reliable operation of early warning systems. CIS proposes a reference architecture for EWS and provides services to address problems common to all EWSs as complex software systems: integration of legacy scientific applications, workflow orchestration, allocation of computational resources and robust operation. We demonstrate a flood early warning system created using the CIS technology and discuss the benefits of our approach which include shorter EWS development time, exposing EWS as a set of reusable services, platform independence and extensibility.

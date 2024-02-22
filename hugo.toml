@@ -172,3 +172,4 @@ staticDir=["primage", "process", "cecm", "eurvalve", "plgrid_core", "paasage",
 author = 'authors'
 category = 'categories'
 tag = 'tags'
+type = 'types'

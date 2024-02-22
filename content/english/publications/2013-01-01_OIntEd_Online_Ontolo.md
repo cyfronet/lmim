@@ -23,5 +23,6 @@ math: true
 highlight: true
 image: ""
 caption: ""
+types: ["Journal Article"]
 ---
 SUMMARYOntology development involves people with different background knowledge and expertise. It is an elaborate process, where sophisticated tools for experienced knowledge engineers are available. However, domain experts need simple tools that they can use to focus on ontology instantiation. In this paper, we propose a methodology with a separation of concern between domain experts and knowledge engineers. This separation allows domain experts to focus on information processing and ontology instantiation while providing immediate feedback to the knowledge engineers on usability of the ontology being developed. We have designed and implemented OINTED, an adaptive online ontology instance editor that supports this methodology. We present usage examples of OINTED that highlight three main features: the intuitive visualization of concepts, instances, and relationships within an ontology; the seamless integration in pre-existing problem solving environment; and the assistance in ontology evolution. OINTED complements existing tools suited for knowledge engineers by enabling immediate feedback and a shorter ontology development life cycle. Copyright © 2012 John Wiley & Sons, Ltd.

@@ -23,5 +23,6 @@ math: true
 highlight: true
 image: ""
 caption: ""
+types: ["Journal Article"]
 ---
 The study of interactions between molecules belonging to different biochemical families (such as lipids and nucleic acids) requires specialized data analysis methods. This article describes the DNA Microarray Integromics Analysis Platform, a unique web application that focuses on computational integration and analysis of “multi-omics” data. Our tool supports a range of complex analyses, including – among others – low- and high-level analyses of DNA microarray data, integrated analysis of transcriptomics and lipidomics data and the ability to infer miRNA-mRNA interactions.

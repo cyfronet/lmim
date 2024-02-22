@@ -22,5 +22,6 @@ math: true
 highlight: true
 image: ""
 caption: ""
+types: ["Conference/workshop paper"]
 ---
 This paper presents HyperFlow: an approach to workflow programming which combines the advantages of a declarative workflow description and low-level scripting programming. The workflow execution model of HyperFlow is based on a formal model of computation - Process Networks. The execution environment is implemented on the basis of a widely adopted runtime platform node.js. Workflow programming benefits from such an approach in multiple ways, including leveraging a large programming ecosystem with many developers, reusable software packages and learning resources; elimination of shim nodes from the workflow graph; and increased reusability of workflow processing components. The HyperFlow workflow programming approach and its advanced capabilities are presented. The HyperFlow engine is also briefly described. Four example workflow applications from various domains, including flood threat assessment, are studied as a demonstration of the HyperFlow programming approach and a comparison with related solutions.

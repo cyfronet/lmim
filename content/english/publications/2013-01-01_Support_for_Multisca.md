@@ -23,5 +23,6 @@ math: true
 highlight: true
 image: ""
 caption: ""
+types: ["Conference/workshop paper"]
 ---
 We present a reusable solution that supports users in combining single-scale models to create a multiscale application. Our approach applies several multiscale programming tools to allow users to compose multiscale applications using a graphical interface, and provides an easy way to execute these multiscale applications on international production infrastructures. Our solution extends the general purpose scripting approach of the GridSpace platform with simple mechanisms for accessing production resources, provided by the Application Hosting Environment (AHE). We apply our support solution to construct and execute a multiscale simulation of clay-polymer nanocomposite materials, and showcase its benefit in reducing the effort required to do a number of time-intensive user tasks.
