@@ -2,16 +2,15 @@
 <div class="mb-8">
   <h5 class="mb-6">Authors from the Team</h5>
   <div class="bg-theme-light dark:bg-darkmode-theme-light rounded p-6">
-
     {{ $teamPages := where site.RegularPages ".Section" "eq" "team"  }}
     {{ range $name, $items := site.Taxonomies.authors }}
-        {{ $name  = title (replace $name "-" " ") }}
-        {{ if (where $teamPages ".Title" "==" $name) }}
-          <a
-          class="hover:text-primary dark:hover:text-darkmode-primary flex justify-between"
-          href="{{ .Page.RelPermalink }}">
-          {{ .Page.Title }} <span>( {{ len $items }} )</span>
-          </a>
+      {{ $name  = title (replace $name "-" " ") }}
+      {{ if (where $teamPages ".Title" "==" $name) }}
+        <a
+        class="hover:text-primary dark:hover:text-darkmode-primary flex justify-between"
+        href="{{ .Page.RelPermalink }}">
+        {{ .Page.Title }} <span>( {{ len $items }} )</span>
+        </a>
       {{ end }}
     {{ end }}
   </div>
