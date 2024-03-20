@@ -11,6 +11,7 @@ social:
   - name: scholar
     icon: fa-solid fa-graduation-cap
     link: http://scholar.google.com/citations?user=cJ8miu8AAAAJ&hl=en
+alumni: true
 ---
 
 Researcher, programmer, entrepreneur
