@@ -40,34 +40,34 @@ Environment, in particular:
 {{< youtube GxLqnBGoAwU >}}
 
 ## EurValve Reviews
-- M. Bubak and M. Kasztelnik: [EurValve: Personalised Decision Support for Heart Valve Disease](/lmim/eurvalve/EurValve-MEE-Platform-Evaluation-v0.7.pptx), Final review of the EurValve H2020 project, the Catharina Ziekenhuis in Eindhoven, 27.03.2019
-- [WP2 presentation at the Review on 28.09.2017](/lmim/eurvalve/EurValve-WP2-review-27-09-2017-fin.pptx)
+- M. Bubak and M. Kasztelnik: [EurValve: Personalised Decision Support for Heart Valve Disease](/eurvalve/EurValve-MEE-Platform-Evaluation-v0.7.pptx), Final review of the EurValve H2020 project, the Catharina Ziekenhuis in Eindhoven, 27.03.2019
+- [WP2 presentation at the Review on 28.09.2017](/eurvalve/EurValve-WP2-review-27-09-2017-fin.pptx)
 
 
 ## Model Execution Environment
-- [MB-WP2-EurValve-PB-GA-Berlin-June-2017-v2.pptx](/lmim/eurvalve/MB-WP2-EurValve-PB-GA-Berlin-June-2017-v2.pptx)
-- [EurValve-WP2-Demo-29-July-2017.pptx](/lmim/eurvalve/EurValve-WP2-Demo-29-July-2017.pptx)
-- [MB-WP2-EurValve-PB-Lyon-Feb-2017-v10.pptx](/lmim/eurvalve/MB-WP2-EurValve-PB-Lyon-Feb-2017-v10)
-- [EurValve-WP2-Portal_v3.docx](/lmim/eurvalve/EurValve-WP2-Portal_v3.docx)
-- [EurValve-WP2-Security_v3.docx](/lmim/eurvalve/EurValve-WP2-Security_v3.docx)
-- [EurValve-WP2-FileStore_v3.docx](/lmim/eurvalve/EurValve-WP2-FileStore_v3.docx)
+- [MB-WP2-EurValve-PB-GA-Berlin-June-2017-v2.pptx](/eurvalve/MB-WP2-EurValve-PB-GA-Berlin-June-2017-v2.pptx)
+- [EurValve-WP2-Demo-29-July-2017.pptx](/eurvalve/EurValve-WP2-Demo-29-July-2017.pptx)
+- [MB-WP2-EurValve-PB-Lyon-Feb-2017-v10.pptx](/eurvalve/MB-WP2-EurValve-PB-Lyon-Feb-2017-v10)
+- [EurValve-WP2-Portal_v3.docx](/eurvalve/EurValve-WP2-Portal_v3.docx)
+- [EurValve-WP2-Security_v3.docx](/eurvalve/EurValve-WP2-Security_v3.docx)
+- [EurValve-WP2-FileStore_v3.docx](/eurvalve/EurValve-WP2-FileStore_v3.docx)
 
 
 ## EurValve News
-- [DICE at the Cloud Services for Synchronisation and Sharing Workshop in Amsterdam](/lmim/eurvalve/dice-at-the-cloud-services-for-synchronisation-and-sharing-workshop-in-amsterdam-30.01-1.02.2017), 31.01.2017
-- EurValve project meeting at the ACC Cyfronet AGH ([presentation](/lmim/eurvalve/CS3-MBubak-eurvalve-Jan-2017.pptx) [abstract](/lmim/eurvalve/SC3-RCushing-abstr-Jan-2017.docx)), 14.01.2017
+- [DICE at the Cloud Services for Synchronisation and Sharing Workshop in Amsterdam](/eurvalve/dice-at-the-cloud-services-for-synchronisation-and-sharing-workshop-in-amsterdam-30.01-1.02.2017), 31.01.2017
+- EurValve project meeting at the ACC Cyfronet AGH ([presentation](/eurvalve/CS3-MBubak-eurvalve-Jan-2017.pptx) [abstract](/eurvalve/SC3-RCushing-abstr-Jan-2017.docx)), 14.01.2017
 
 
 ## EurValve Presentations and Interviews
-- M. Bubak, T. Gubala, R. Hose, M. Kasztelnik, M. Malawski, J. Meizner, P. Nowakowski, S. Wood: [Infrastructure for Personalised Medicine: It’s MEE that Matters!](/lmim/eurvalve/PN-EurValve-Workshop-KRK-2019.pptx), Computational Models for the Clinic: Cardiac/Cardiovascular Application, EurValve Workshop, 25.01.2019, Krakow, Poland
-- M. Bubak: [Towards the Center of Excellence for Personalized Diagnostics and Medical Therapy](/lmim/eurvalve/EurValve-Workshop-25-01-2019-MBubak-v01.pptx), Computational Models for the Clinic: Cardiac/Cardiovascular Application, EurValve Workshop, 25.01.2019, Krakow, Poland
+- M. Bubak, T. Gubala, R. Hose, M. Kasztelnik, M. Malawski, J. Meizner, P. Nowakowski, S. Wood: [Infrastructure for Personalised Medicine: It’s MEE that Matters!](/eurvalve/PN-EurValve-Workshop-KRK-2019.pptx), Computational Models for the Clinic: Cardiac/Cardiovascular Application, EurValve Workshop, 25.01.2019, Krakow, Poland
+- M. Bubak: [Towards the Center of Excellence for Personalized Diagnostics and Medical Therapy](/eurvalve/EurValve-Workshop-25-01-2019-MBubak-v01.pptx), Computational Models for the Clinic: Cardiac/Cardiovascular Application, EurValve Workshop, 25.01.2019, Krakow, Poland
 - M. Bubak: [Interview about EurValve for Newseria](https://innowacje.newseria.pl/news/kliniczny-system-z,p294398899), 11.12.2017
 - M. Bubak: [Interview about EurValve for Radio Krakow](http://www.radiokrakow.pl/audycje/pracuja-na-nobla/medycyna-spersonalizowana/), 9.12.2017
-- M. Bubak, T. Bartynski, T. Gubala, D. Harezlak, M. Kasztelnik, M. Malawski, J. Meizner, P. Nowakowski: [Towards Model Execution Environment for Investigation of Heart Valve Diseases](/lmim/eurvalve/EurValve-CGW16-pres-v02.pptx), CGW Workshop 2016,  24-26.10.2016, Krakow, Poland
+- M. Bubak, T. Bartynski, T. Gubala, D. Harezlak, M. Kasztelnik, M. Malawski, J. Meizner, P. Nowakowski: [Towards Model Execution Environment for Investigation of Heart Valve Diseases](/eurvalve/EurValve-CGW16-pres-v02.pptx), CGW Workshop 2016,  24-26.10.2016, Krakow, Poland
 
 
 ## EurValve Posters
-- M. Bubak, T. Bartynski, T. Gubala, D. Harezlak, M. Kasztelnik, M. Malawski, J. Meizner, P. Nowakowski: [Towards Model Execution Environment for Investigation of Heart Valve Diseases](/lmim/eurvalve/EurValve-CGW16-pres-v02.pptx), CGW Workshop 2016,  24-26.10.2016, Krakow, Poland
+- M. Bubak, T. Bartynski, T. Gubala, D. Harezlak, M. Kasztelnik, M. Malawski, J. Meizner, P. Nowakowski: [Towards Model Execution Environment for Investigation of Heart Valve Diseases](/eurvalve/EurValve-CGW16-pres-v02.pptx), CGW Workshop 2016,  24-26.10.2016, Krakow, Poland
 
 
 ## EurValve Movies

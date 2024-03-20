@@ -36,8 +36,8 @@ M. Bubak: Scientific Applications with HyperFlow and Scalarm on the PaaSage Plat
 
 
 ## PaaSage Posters and Flyers
-[Towards Deployment and Autoscaling of Scientific Workflows with HyperFlow and PaaSage](/lmim/paasage/Workflow-Paasage-v6.pdf), B. Balis, M. Bubak, K. Figiela, M. Malawski, and M. Pawlik; poster presented during [CGW Workshop'14](http://www.cyfronet.krakow.pl/cgw14/); 27-29 October, 2014, Krakow, Poland.
+[Towards Deployment and Autoscaling of Scientific Workflows with HyperFlow and PaaSage](/paasage/Workflow-Paasage-v6.pdf), B. Balis, M. Bubak, K. Figiela, M. Malawski, and M. Pawlik; poster presented during [CGW Workshop'14](http://www.cyfronet.krakow.pl/cgw14/); 27-29 October, 2014, Krakow, Poland.
 
-[PaaSage: Model-Based Cloud Platform Upperware](/lmim/paasage/PosterPaaSageAGH-v6.pdf), M. Bubak, B. Baliś, J. Kitowski, D. Król, B. Kryza, M. Malawski - Department of Computer Science AGH, Krakow, Poland 2014
+[PaaSage: Model-Based Cloud Platform Upperware](/paasage/PosterPaaSageAGH-v6.pdf), M. Bubak, B. Baliś, J. Kitowski, D. Król, B. Kryza, M. Malawski - Department of Computer Science AGH, Krakow, Poland 2014
 
-[Support for Scientific Workflows in a Model-based Cloud Platform](/lmim/paasage/PosterPaaSageAGH-v6.pdf), M. Malawski, B. Balis, K. Figiela, M. Pawlik and M. Bubak, Proceedings of 8th IEEE/ACM International Conference on Utility and Cloud Computing, December 07-10, 2015, Limassol, Cyprus, pp. 412-413, IEEE 2015
+[Support for Scientific Workflows in a Model-based Cloud Platform](/paasage/PosterPaaSageAGH-v6.pdf), M. Malawski, B. Balis, K. Figiela, M. Pawlik and M. Bubak, Proceedings of 8th IEEE/ACM International Conference on Utility and Cloud Computing, December 07-10, 2015, Limassol, Cyprus, pp. 412-413, IEEE 2015

@@ -28,7 +28,7 @@ generation Grid middleware, namely:
   * Problem Solving Environments, Tools and GRID systems.
 
 ## Publications
-- [Security in Component Grid Systems](/lmim/papers/mgr_Michal_Dyrda.pdf), Michal Dyrda; Master of Science Thesis supervised by Marian Bubak; reviewed by dr Dawid Kurzyniec; AGH University of Science and Technology, Krakow, Poland ([presentation](/lmim/presentations/dyrda-mgr-08-pr.pdf)) (June 2008)
+- [Security in Component Grid Systems](/papers/mgr_Michal_Dyrda.pdf), Michal Dyrda; Master of Science Thesis supervised by Marian Bubak; reviewed by dr Dawid Kurzyniec; AGH University of Science and Technology, Krakow, Poland ([presentation](/presentations/dyrda-mgr-08-pr.pdf)) (June 2008)
 - M. Malawski, T. Gubala, M. Kasztelnik, T. Bartynski, M. Bubak, F. Baude, L. Henrio: High-level Scripting Approach for Building Component-based Applications on the Grid. In: M. Danelutto, P. Fragopoulou, V. Getov (eds.) Making Grids Work, Springer-Verlag, pp. 307-320, ISBN 978-0-387-78447-2 (2008)
 - T. Gubala, A. Hoheisel: Highly Dynamic Workflow Orchestration for Scientific Applications. In: CoreGRID Technical Report TR-0101, Institutes on Grid Information, Resource and Workflow Monitoring Services & on Grid Systems, Tools and Environments, pp. 1-9 (2007)
 - T. Gubala, A. Hoheisel: Highly Dynamic Workflow Orchestration for Scientific Applications. In: CoreGRID Integration Workshop 2006 (CIW'06), ACC Cyfronet AGH, pp. 309-320 (2006)

@@ -79,28 +79,28 @@ within the project.
 5 members of DICE Team are co-authors of a paper on the PRIMAGE project published in the European Radiology Experimental journal: Martí-Bonmatí, L., Alberich-Bayarri, Á., Ladenstein, R. et al.: PRIMAGE project: predictive in silico multiscale analytics to support childhood cancer personalised evaluation empowered by imaging biomarkers. Eur Radiol Exp 4, 22 (2020). https://doi.org/10.1186/s41747-020-00150-9
 
 ## PRIMAGE Presentations
-- M. Kasztelnik: [Metody i narzędzia wspierające złożone symulacje na infrastrukturach HPC](/lmim/primage/Metody_MKasztelnik_21.11.2022.pdf), presented at the Cyfronet Open Day in Krakow, Poland, 21.11.2022
-- M. Kasztelnik, T. Gubała, P. Nowakowski, J. Meizner, P. Połeć, M. Malawski, M. Bubak: [Reliable digital twin simulation development and execution on HPC infrastructures](/lmim/primage/Poster_Primage_15-09-2022.pdf), presented at the VPH Conference, in Porto, Portugal, 6-9.09.2022
-- K. Rycerz: [Quantum Computing for HPC Problems](/lmim/primage/KUKDM22_KRycerz.pdf), presented at the KU KDM 2022 conference, online, 7-8.04.2022
-- M. Kasztelnik, T. Gubała, P. Nowakowski, J. Meizner, P. Połeć, M. Malawski, M. Bubak: [High-level APIs for managing computations on the HPC systems](/lmim/primage/kkdm-2022-rimrock-plgdata-mee.pptx.pdf), presented at the KU KDM 2022 conference, online, 7-8.04.2022
+- M. Kasztelnik: [Metody i narzędzia wspierające złożone symulacje na infrastrukturach HPC](/primage/Metody_MKasztelnik_21.11.2022.pdf), presented at the Cyfronet Open Day in Krakow, Poland, 21.11.2022
+- M. Kasztelnik, T. Gubała, P. Nowakowski, J. Meizner, P. Połeć, M. Malawski, M. Bubak: [Reliable digital twin simulation development and execution on HPC infrastructures](/primage/Poster_Primage_15-09-2022.pdf), presented at the VPH Conference, in Porto, Portugal, 6-9.09.2022
+- K. Rycerz: [Quantum Computing for HPC Problems](/primage/KUKDM22_KRycerz.pdf), presented at the KU KDM 2022 conference, online, 7-8.04.2022
+- M. Kasztelnik, T. Gubała, P. Nowakowski, J. Meizner, P. Połeć, M. Malawski, M. Bubak: [High-level APIs for managing computations on the HPC systems](/primage/kkdm-2022-rimrock-plgdata-mee.pptx.pdf), presented at the KU KDM 2022 conference, online, 7-8.04.2022
 - Kasztelnik, M., Sosnowski, D., Nowakowski, P., Bubak, M.: Enabling organized computer simulations with patient cohort data, presented at CompBioMed Conference 2021, 15-17 September, 2021, https://cbmc21.vfairs.com/, talk available at https://www.youtube.com/watch?v=iZBmctHPBpE
-- M. Bubak, M. Kasztelnik, J. Meizner, P. Nowakowski, T. Gubała, M. Malawski: Towards a Universal Platform for Large Scale Simulations on Prometheus ([abstract](/lmim/primage/Meizner_Jan_2.pdf), [presentation](/lmim/primage/KUKDM-2020-Towards-Universal.pptx)), KUKDM 2020 Conference planned on 5-6.03.2020
-- M. Bubak, T. Gubala, R. Hose, M. Kasztelnik, M. Malawski, J. Meizner, P. Nowakowski, S. Wood: [Processing Complex Medical Workflows in the EurValve Environment](/lmim/primage/62_Piotr_Nowakowski_MEE_CBM_v03.pptx), CompBioMed'19, London, UK, 25-27 September 2019
-- M. Bubak, T. Gubala, M. Kasztelnik, M. Malawski, J. Meizner, P. Nowakowski: [In quest for reproducibility of medical simulations on e-infrastructures](/lmim/primage/MB-CompBioMed-29-03-2019-v1.1-mb.pptx), CompBioMed Workshop on Containers Technologies, Amsterdam, The Netherlands, 29.03.2019
+- M. Bubak, M. Kasztelnik, J. Meizner, P. Nowakowski, T. Gubała, M. Malawski: Towards a Universal Platform for Large Scale Simulations on Prometheus ([abstract](/primage/Meizner_Jan_2.pdf), [presentation](/primage/KUKDM-2020-Towards-Universal.pptx)), KUKDM 2020 Conference planned on 5-6.03.2020
+- M. Bubak, T. Gubala, R. Hose, M. Kasztelnik, M. Malawski, J. Meizner, P. Nowakowski, S. Wood: [Processing Complex Medical Workflows in the EurValve Environment](/primage/62_Piotr_Nowakowski_MEE_CBM_v03.pptx), CompBioMed'19, London, UK, 25-27 September 2019
+- M. Bubak, T. Gubala, M. Kasztelnik, M. Malawski, J. Meizner, P. Nowakowski: [In quest for reproducibility of medical simulations on e-infrastructures](/primage/MB-CompBioMed-29-03-2019-v1.1-mb.pptx), CompBioMed Workshop on Containers Technologies, Amsterdam, The Netherlands, 29.03.2019
 
 
 ## First PRIMAGE Working Session, 28-30 April 2020
 - WP2 - Marek Kasztelnik, Damian Sosnowski: Organisation management in MEE
-  - [presentation](/lmim/primage/Organization_Management_in_MEE.pptx)
+  - [presentation](/primage/Organization_Management_in_MEE.pptx)
   - [recorded demo](https://www.youtube.com/watch?v=VfQoQhx26Y0)
 - WP5 - Marek Kasztelnik: Running applications on HPC with MEE
-  - [presentation](/lmim/primage/wp5-hpc.pptx)
+  - [presentation](/primage/wp5-hpc.pptx)
   - [recorded demo](https://www.youtube.com/watch?v=NU2wSQFVI1g)
 
 
 ## PRIMAGE Kick-off, Valencia, 19-20 December 2018
-- [ACC Cyfronet AGH, Krakow, PL - Distributed Computing Environments Team in PRIMAGE](/lmim/primage/Primage-Cyfronet-DICE-KO-19-12-2018.pptx)
-- [T2.3 (M1-M48) HPC Resources for PRIMAGE Simulations](/lmim/primage/Primage-Cyfronet-T2-3-KO-19-12-2018-v1.pptx)
-- [T2.5 (M1-M48) (HPC) User Interfaces and APIs](/lmim/primage/Primage-Cyfronet-T2-5-KO-19-12-2018-v1.pptx)
-- [T3.4 (M12-M36) Database for Clinical Data](/lmim/primage/Primage-Cyfronet-T3-4-KO-19-12-2018-v1.pptx)
-- [T5.6 (M13-M48) Integration with the HPC Execution Environment](/lmim/primage/Primage-Cyfronet-T5-6-KO-19-12-2018-v1.pptx)
+- [ACC Cyfronet AGH, Krakow, PL - Distributed Computing Environments Team in PRIMAGE](/primage/Primage-Cyfronet-DICE-KO-19-12-2018.pptx)
+- [T2.3 (M1-M48) HPC Resources for PRIMAGE Simulations](/primage/Primage-Cyfronet-T2-3-KO-19-12-2018-v1.pptx)
+- [T2.5 (M1-M48) (HPC) User Interfaces and APIs](/primage/Primage-Cyfronet-T2-5-KO-19-12-2018-v1.pptx)
+- [T3.4 (M12-M36) Database for Clinical Data](/primage/Primage-Cyfronet-T3-4-KO-19-12-2018-v1.pptx)
+- [T5.6 (M13-M48) Integration with the HPC Execution Environment](/primage/Primage-Cyfronet-T5-6-KO-19-12-2018-v1.pptx)
