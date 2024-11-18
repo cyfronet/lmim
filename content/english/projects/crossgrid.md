@@ -9,7 +9,7 @@ grant_id: "IST-2001-32243"
 image: "/images/projects/crossgrid.png"
 categories: ["HPC", "escience"]
 author: "Marian Bubak"
-tags: ["vht"]
+tags: ["grid"]
 draft: false
 ---
 
