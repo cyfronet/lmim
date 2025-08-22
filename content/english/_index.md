@@ -17,11 +17,11 @@ features:
     image: "/images/research.png"
     content: ""
     bulletpoints:
-      - "Methods, techniques and environments for programming and execution of complex scientific applications on cluster, HPC and Cloud infrastructures"
-      - "Collaborative Web-based environments for e-Science"
-      - "Knowledge-based approach to computation and data, including registries, application monitoring, provenence and semantic integration"
-      - "Services, components, workflows, composition and integration of heterogeneous service oriented and event-driven applications"
-      - "Support for multi-scale, multi-infrastructure and multi-programming-model applications"
+      - "Methods, techniques and environments for programming and execution of complex scientific applications on cluster, HPC and Cloud infrastructures,"
+      - "Collaborative environments for computational medicine applications,"
+      - "Development of AI methods and tools"
+      - "Elaboration of the Virtual Human Twin platforms"
+      - "Knowledge-based approach to computation and data, including registries, application monitoring"
     button:
       enable: false
       label: "Get Started Now"
